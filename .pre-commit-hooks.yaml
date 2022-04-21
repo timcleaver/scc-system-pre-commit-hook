@@ -1,0 +1,7 @@
+---
+- id: scc-system
+  name: count lines of code
+  description: Create statistics on lines of code.
+  entry: scc
+  language: system
+  pass_filenames: false
